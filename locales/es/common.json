@@ -1,0 +1,8 @@
+{
+  "login": {
+    "title": "Acceso",
+    "email_label": "E-mail",
+    "password_label": "Clave",
+    "forgot_password": "¿Olvidaste tu contraseña?"
+  }
+}

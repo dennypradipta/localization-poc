@@ -1,0 +1,84 @@
+{
+  "actions": {
+    "search": "Cari",
+
+    "create_data": "Tambah Data",
+    "create": "Tambah",
+    "edit_data": "Ubah Data",
+    "edit": "Ubah",
+    "save": "Simpan",
+
+    "delete_confirmation": "Konfirmasi Penghapusan",
+    "delete_confirmation_message": "Apakah Anda yakin untuk menghapus data ini?\nData akan dihapus secara permanen",
+
+    "discard_title": "Membuang Perubahan",
+    "discard_confirmation": "Apakah Anda yakin untuk membuang perubahan?\nPerubahan yang Anda buat akan hilang.",
+
+    "continue_editing": "Lanjutkan Perubahan",
+    "discard": "Buang",
+
+    "cancel": "Batal",
+    "delete": "Hapus",
+
+    "apply": "Terapkan",
+    "reset": "Reset",
+
+    "filter": "Filter"
+  },
+
+  "error": {
+    "message": "Terjadi kesalahan saat mengambil data tabel"
+  },
+
+  "footer": {
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget adipiscing ac, lacinia feugiat diam. Tempus nisl, egestas commodo odio gravida."
+  },
+
+  "login": {
+    "title": "Masuk",
+    "email_label": "Email",
+    "password_label": "Kata Sandi",
+    "forgot_password": "Lupa kata sandi?"
+  },
+  "logout": "Keluar",
+
+  "forgot_password": {
+    "title": "Lupa kata sandi",
+    "description": "Masukan alamat email yang terdaftar agar kami dapat mengirimkan link verifikasi untuk mengubah kata sandi Anda.",
+    "email": "Email",
+    "reset_password": "Passwort zurücksetzen",
+    "email_sent": "Kami telah mengirimkan reset email",
+    "email_instructions": "Kami telah mengirimkan instruksi untuk Anda mengubah kata sandi Anda apabila email Anda sudah terdaftar. Anda akan mendapatkan email tersebut secepatnya.",
+    "check_spam_folder": "Apabila Anda tidak menerima email, pastikan bahwa Anda telah memasukkan email yang benar dan mengecek folder spam di email Anda.",
+    "continue": "Fortsetzen"
+  },
+
+  "pagination": {
+    "show": "Lihat",
+    "entry": "baris",
+    "page": "Halaman"
+  },
+
+  "table": {
+    "table_name": "Nama Tabel",
+    "last_modified": "Terakhir Dikelola",
+    "action": "Aksi"
+  },
+
+  "table_reference": {
+    "form": "Form",
+    "json_editor": "JSON Editor (Advanced)",
+    "table_name": "Nama Tabel",
+    "delete_method": "Metode Penghapusan",
+    "add_new_field": "Tambah Field",
+
+    "field_name": "Nama Field",
+    "display_name": "Nama yang Ditampilkan",
+    "foreign_key_display_name": "Nama Foreign Key yang Ditampilkan",
+    "sort_type": "Tipe Sortir",
+    "widget": "Widget",
+    "filterable": "Dapat difilter?",
+    "required": "Wajib?",
+    "editable": "Dapat diedit?"
+  }
+}

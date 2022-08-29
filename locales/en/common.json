@@ -1,0 +1,84 @@
+{
+  "actions": {
+    "search": "Search",
+
+    "create_data": "Create Data",
+    "create": "Create",
+    "edit_data": "Edit Data",
+    "edit": "Edit",
+    "save": "Save",
+
+    "delete_confirmation": "Delete Confirmation",
+    "delete_confirmation_message": "Are you sure you want to delete this data?\nThe data will be deleted permanently",
+
+    "discard_title": "Discard Unsaved Changes",
+    "discard_confirmation": "Are you sure you want to cancel editing?\nChanges you made will be lost.",
+
+    "continue_editing": "Continue Editing",
+    "discard": "Discard",
+
+    "cancel": "Cancel",
+    "delete": "Delete",
+
+    "apply": "Apply",
+    "reset": "Reset",
+
+    "filter": "Filter"
+  },
+
+  "error": {
+    "message": "An error occured while getting the table data"
+  },
+
+  "footer": {
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget adipiscing ac, lacinia feugiat diam. Tempus nisl, egestas commodo odio gravida."
+  },
+
+  "login": {
+    "title": "Log in",
+    "email_label": "Email",
+    "password_label": "Password",
+    "forgot_password": "Forgot your Password?"
+  },
+  "logout": "Logout",
+
+  "forgot_password": {
+    "title": "Forgot Password",
+    "description": "Enter your registered email address and we will send you a verification link to reset your password.",
+    "email": "Email",
+    "reset_password": "Reset Password",
+    "email_sent": "We've sent you a reset email",
+    "email_instructions": "We have emailed you instructions for resetting your password, if your email is registered with us. You should receive them shortly.",
+    "check_spam_folder": "If you do not receive an email, please make sure you have entered the address you registered with, and check your spam folder.",
+    "continue": "Continue"
+  },
+
+  "pagination": {
+    "show": "Show",
+    "entry": "entry",
+    "page": "page"
+  },
+
+  "table": {
+    "table_name": "Table Name",
+    "last_modified": "Last Modified",
+    "action": "Action"
+  },
+
+  "table_reference": {
+    "form": "Form",
+    "json_editor": "JSON Editor (Advanced)",
+    "table_name": "Table Name",
+    "delete_method": "Delete Method",
+    "add_new_field": "Add new field",
+
+    "field_name": "Field Name",
+    "display_name": "Display Name",
+    "foreign_key_display_name": "Foreign Key Display Name",
+    "sort_type": "Sort Type",
+    "widget": "Widget",
+    "filterable": "Filterable?",
+    "required": "Required?",
+    "editable": "Editable?"
+  }
+}

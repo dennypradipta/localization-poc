@@ -1,0 +1,84 @@
+{
+  "actions": {
+    "search": "Suche",
+
+    "create_data": "Daten erstellen",
+    "create": "Schaffen",
+    "edit_data": "Daten bearbeiten",
+    "edit": "Bearbeiten",
+    "save": "Speichern",
+
+    "delete_confirmation": "Bestätigung löschen",
+    "delete_confirmation_message": "Möchten Sie diese Daten wirklich löschen?\nDie Daten werden dauerhaft gelöscht",
+
+    "discard_title": "Nicht gespeicherte Änderungen verwerfen",
+    "discard_confirmation": "Möchten Sie die Bearbeitung wirklich abbrechen?\nVorgenommene Änderungen gehen verloren.",
+
+    "continue_editing": "Weiter bearbeiten",
+    "discard": "Verwerfen",
+
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+
+    "apply": "Sich bewerben",
+    "reset": "Zurücksetzen",
+
+    "filter": "Filter"
+  },
+
+  "error": {
+    "message": "Beim Abrufen der Tabellendaten ist ein Fehler aufgetreten"
+  },
+
+  "footer": {
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget adipiscing ac, lacinia feugiat diam. Tempus nisl, egestas commodo odio gravida."
+  },
+
+  "login": {
+    "title": "Anmeldung",
+    "email_label": "Email",
+    "password_label": "Passwort",
+    "forgot_password": "Haben Sie Ihr Passwort vergessen?"
+  },
+  "logout": "Ausloggen",
+
+  "forgot_password": {
+    "title": "Passwort vergessen",
+    "description": "Geben Sie Ihre registrierte E-Mail-Adresse ein und wir senden Ihnen einen Bestätigungslink zum Zurücksetzen Ihres Passworts.",
+    "email": "Email",
+    "reset_password": "Passwort zurücksetzen",
+    "email_sent": "Wir haben Ihnen eine E-Mail zum Zurücksetzen gesendet",
+    "email_instructions": "Wir haben Ihnen per E-Mail Anweisungen zum Zurücksetzen Ihres Passworts gesendet, wenn Ihre E-Mail-Adresse bei uns registriert ist. Sie sollten sie in Kürze erhalten.",
+    "check_spam_folder": "Wenn Sie keine E-Mail erhalten, vergewissern Sie sich bitte, dass Sie die Adresse eingegeben haben, mit der Sie sich registriert haben, und überprüfen Sie Ihren Spam-Ordner.",
+    "continue": "Fortsetzen"
+  },
+
+  "pagination": {
+    "show": "Zeigen",
+    "entry": "Eintrag",
+    "page": "Buchseite"
+  },
+
+  "table": {
+    "table_name": "Tabellenname",
+    "last_modified": "Zuletzt bearbeitet",
+    "action": "Aktion"
+  },
+
+  "table_reference": {
+    "form": "Bilden",
+    "json_editor": "JSON-Editor (Erweitert)",
+    "table_name": "Tabellenname",
+    "delete_method": "Methode löschen",
+    "add_new_field": "Neues Feld hinzufügen",
+
+    "field_name": "Feldname",
+    "display_name": "Anzeigename",
+    "foreign_key_display_name": "Anzeigename des Fremdschlüssels",
+    "sort_type": "Art sortieren",
+    "widget": "Widget",
+    "filterable": "Filterbar?",
+    "required": "Erforderlich?",
+    "editable": "Bearbeitbar?"
+  }
+}

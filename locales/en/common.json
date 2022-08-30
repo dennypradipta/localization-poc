@@ -2,7 +2,7 @@
   "actions": {
     "search": "Search data",
 
-    "create_data": "Create Data",
+    "create_data": "Create new data",
     "create": "Create",
     "edit_data": "Edit Data",
     "edit": "Edit",
